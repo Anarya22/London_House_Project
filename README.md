@@ -20,6 +20,7 @@ The commands that we used in this project :
 
 This project is based on London Housing Data.
 The queries that we dealt with:
+
 *Q. 1) Convert the Datatype of 'Date' column to Date-Time format.
 *Q. 2) Add a new column ''year'' in the dataframe, which contains years only.
 *(2.B) Add a new column ''month'' as 2nd column in the dataframe, which contains month only.
